@@ -1,3 +1,10 @@
 body {
   background-color: pink;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.croissant {
+  width: 500px;
 }
